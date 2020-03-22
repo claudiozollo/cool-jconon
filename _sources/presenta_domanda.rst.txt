@@ -2,9 +2,7 @@
 Partecipazione alla Selezione
 =============================
 
-Effettuato l':doc:`accesso<registrazione>`, per poter partecipare alla selezione, il candidato dovrà utilizzare il menù a tendina
-
-posto alla destra del bando di interesse; il menù presenta la seguente scelta:
+Effettuato l':doc:`accesso<registrazione>`, per poter partecipare alla selezione, il candidato dovrà utilizzare il menù a tendina posto alla destra del bando di interesse; il menù presenta la seguente scelta:
 
 .. thumbnail:: images/presenta_domanda_1.jpg
 
