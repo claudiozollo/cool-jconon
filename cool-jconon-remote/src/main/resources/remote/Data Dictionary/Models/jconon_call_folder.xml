@@ -71,31 +71,7 @@
 		<constraint name="jconon_call:elenco_profilo_livello_values" type="LIST">
 			<parameter name="allowedValues">
 				<list>
-					<value>Operatore di Amministrazione VIII livello</value>
-					<value>Operatore di Amministrazione VII livello</value>
-					<value>Operatore Tecnico VIII livello</value>
-					<value>Operatore Tecnico VII livello</value>
-					<value>Operatore Tecnico VI livello</value>
-					<value>Collaboratore di Amministrazione VII livello</value>
-					<value>Collaboratore di Amministrazione VI livello</value>
-					<value>Collaboratore di Amministrazione V livello</value>
-					<value>Collaboratore tecnico enti di ricerca VI livello</value>
-					<value>Collaboratore tecnico enti di ricerca V livello</value>
-					<value>Collaboratore tecnico enti di ricerca IV livello</value>
-					<value>Funzionario di Amministrazione V livello</value>
-					<value>Funzionario di Amministrazione IV livello</value>
-					<value>Ricercatore III livello</value>
-					<value>Tecnologo III livello</value>
-					<value>I Ricercatore II livello</value>
-					<value>I Tecnologo II livello</value>
-					<value>Dirigente di Ricerca I livello</value>
-					<value>Dirigente Tecnologo I livello</value>
-					<value>Ricercatore/Tecnologo</value>
-					<value>Dirigente II Fascia</value>
-					<value>Livelli IV-VIII</value>
-					<value>Livelli IV-VII</value>
-					<value>Componente Consiglio di Amministrazione</value>
-					<value>Componente Consiglio Scientifico di Istituto</value>
+					<value>B3</value>
 				</list>
 			</parameter>
 		</constraint>
